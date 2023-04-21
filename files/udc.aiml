@@ -4,4 +4,22 @@
     <pattern>*</pattern>
     <template>I have no answer for that.</template>
   </category>
+<category>
+    <pattern>What jobs can I get with a computer science degree</pattern>
+    <template>There's plenty of options, such as a software engineer, solutions architect, systems administrator, network administrator, or IT Project manager. It really depends on what type of role you want. There's customer-facing roles, engineering roles, or business-oriented roles. Which one are you leaning towards?</template>
+</category>
+<category>
+    <pattern>I want something more customer facing</pattern>
+    <template>Then you should look into a solutions architect role, where you would be acting as a liaison between the customer and the engineering department. This will require a mix of technical skills and sales skills.</template>
+</category>
+<category>
+    <pattern>I  want something in engineering</pattern>
+    <template>Then you should look into software engineering, systems, or network administrator. A software engineer writes code; a systems administrator is in charge of the organization's computer systems, including servers, desktops, laptops, and mobile devices; and an network administrator is in charge of the network infrastructure, including routers, switches, firewalls, and other network components. 
+
+</template>
+</category>
+<category>
+    <pattern>I  want a business oriented role</pattern>
+    <template>Then you should look into an IT Project manager role, where you would ensure that IT projects are completed successfully, on time, within budget. This will requirement management and project management skills.  </template>
+</category>
 </aiml>
