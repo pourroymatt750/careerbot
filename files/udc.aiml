@@ -14,12 +14,24 @@
 </category>
 <category>
     <pattern>I  want something in engineering</pattern>
-    <template>Then you should look into software engineering, systems, or network administrator. A software engineer writes code; a systems administrator is in charge of the organization's computer systems, including servers, desktops, laptops, and mobile devices; and an network administrator is in charge of the network infrastructure, including routers, switches, firewalls, and other network components. 
+    <template>Then you should look into software engineering, systems, or network administrator. A software engineer writes code; a systems administrator is in charge of the organization's computer systems, including servers, desktops, laptops, and mobile devices; and an network administrator is in charge of the network infrastructure, including routers, switches, firewalls, and other network components.  Would you rather code, manage computer systems, or manage networks?
 
 </template>
 </category>
 <category>
     <pattern>I  want a business oriented role</pattern>
     <template>Then you should look into an IT Project manager role, where you would ensure that IT projects are completed successfully, on time, within budget. This will requirement management and project management skills.  </template>
+</category>
+<category>
+    <pattern>I would rather code</pattern>
+    <template>Then software engineering is for you</template>
+</category>
+<category>
+    <pattern>I would rather manage computer systems</pattern>
+    <template>Then a systems administrator is for you</template>
+</category>
+<category>
+    <pattern>I would rather manage networks</pattern>
+    <template>Then a network administrator is for you</template>
 </category>
 </aiml>
